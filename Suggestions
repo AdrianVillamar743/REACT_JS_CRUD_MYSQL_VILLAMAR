@@ -1,0 +1,15 @@
+1.- Creamos nuestro proyecto en la carpeta que deseemos siempre en letras minusculas con el comando
+npx create-react-app nombredetuproyecto
+2.- Una vez creado tendremos la carpeta con la aplicación, y sus componentes, sin embargo necesitaremos adicionales
+como bootstrap el cual lo instalaremos con el siguiente
+comando (bootstrap para estilos css, reactstrap para ventanas modales, axios para consumo del API)
+npm i bootstrap reactstrap axios
+--------------------------------------------------------------------------------------------------------------------------------------
+1.- We create our project in the folder we want always in lowercase letters with the command
+npx create-react-app project-name project-name
+2.- Once created we will have the folder with the application, and its components, however we will need additional ones
+as bootstrap which we will install it with the following command
+command (bootstrap for css styles, reactstrap for modal windows, axios for API consumption)
+npm i bootstrap reactstrap axios
+
+Translated with www.DeepL.com/Translator (free version)
