@@ -1,0 +1,19 @@
+CRUD with React JS and MySQL.
+
+For this exercise we need have installed Xampp or another web server, npm for React JS and finally a text editor.
+
+1.- We need log in in own Database Administrator in mi case is PHPMyAdmin to use MySQL.
+2. Create a new database in this exercise going to name my database like 'personal'.
+3. Use my script to restore the database or use my stored procedures.
+4. Coding and enjoy the process.
+ ---------------------------------------
+ CRUD con React JS y MySQL.
+
+Para este ejercicio necesitamos tener instalado Xampp u otro servidor web, npm para React JS y finalmente un editor de texto.
+
+1.- Necesitamos iniciar sesión en el propio Administrador de Bases de Datos en mi caso es PHPMyAdmin para utilizar MySQL.
+2. Crear una nueva base de datos en este ejercicio voy a nombrar mi base de datos como 'empresa_importante'.
+3. Usar mi script para restaurar la base de datos o usar mis procedimientos almacenados.
+4. Codificar y disfrutar del proceso.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
