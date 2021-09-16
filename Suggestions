@@ -12,4 +12,3 @@ as bootstrap which we will install it with the following command
 command (bootstrap for css styles, reactstrap for modal windows, axios for API consumption)
 npm i bootstrap reactstrap axios
 
-Translated with www.DeepL.com/Translator (free version)
